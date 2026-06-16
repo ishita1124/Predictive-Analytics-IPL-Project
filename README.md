@@ -256,19 +256,19 @@ Incorporate forecasting outputs into match preparation strategies.
 
 ## Executive Overview
 
-![Executive Overview](Dashboard/Page_1.png)
+![Executive Overview](Dashboard/Page1.png)
 
 ## Team Performance Analysis
 
-![Team Performance](Dashboard%20Screenshots/Page2_Team_Performance_Analysis.png)
+![Team Performance](Dashboard/Page2.png)
 
 ## Predictive Analytics
 
-![Predictive Analytics](Dashboard%20Screenshots/Page3_Predictive_Analytics.png)
+![Predictive Analytics](Dashboard/Page3.png)
 
 ## Insights & Recommendations
 
-![Insights](Dashboard%20Screenshots/Page4_Insights_Recommendations.png)
+![Insights](Dashboard/Page4.png)
 
 ---
 
