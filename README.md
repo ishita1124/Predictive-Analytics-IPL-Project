@@ -256,19 +256,19 @@ Incorporate forecasting outputs into match preparation strategies.
 
 ## Executive Overview
 
-![Executive Overview](Dashboard/Page1.png)
+![Executive Overview](https://github.com/ishita1124/Predictive-Analytics-IPL-Project/blob/main/Dashboard/Page1.jpeg)
 
 ## Team Performance Analysis
 
-![Team Performance](Dashboard/Page2.png)
+![Team Performance](https://github.com/ishita1124/Predictive-Analytics-IPL-Project/blob/main/Dashboard/Page2.jpeg)
 
 ## Predictive Analytics
 
-![Predictive Analytics](Dashboard/Page3.png)
+![Predictive Analytics](https://github.com/ishita1124/Predictive-Analytics-IPL-Project/blob/main/Dashboard/Page3.jpeg)
 
 ## Insights & Recommendations
 
-![Insights](Dashboard/Page4.png)
+![Insights](https://github.com/ishita1124/Predictive-Analytics-IPL-Project/blob/main/Dashboard/Page4.jpeg)
 
 ---
 
